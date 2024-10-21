@@ -1,4 +1,5 @@
 r"""Test server"""
+
 from expect_language_server.server import get_document
 
 
